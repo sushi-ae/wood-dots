@@ -15,6 +15,13 @@ ITS MESSY DON'T BULLY ME!!!
 * main-theme - Dark-Decay
 * icon-theme - Vimix-Beryl
 
+## Legend
+just so nobody gets confused ;-;
+```
+# = run with sudo
+$ = run without sudo
+```
+
 ## Dependencies
 ```bash
 # pacman -S sxhkd
