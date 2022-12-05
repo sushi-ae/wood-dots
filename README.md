@@ -42,5 +42,4 @@ $ cp wood-dots/picom ~/.config/
 for the gtk-theme and whatnot, i'm going to add instructions on that in the future.
 ```bash
 $ cp wood-dots/.zshrc ~/
-# chsh (your user here)
 ```
