@@ -23,7 +23,7 @@ $ = run without sudo
 ```
 
 ## Dependencies
-```bash
+```
 # pacman -S sxhkd
 # pacman -S alacritty
 # pacman -S picom
