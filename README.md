@@ -4,8 +4,6 @@
 
 ITS MESSY DON'T BULLY ME!!!
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=897771731782074399)
-
 ## Details
 * distro - Arch, btw
 * window-manager - awesomewm (stable build)
@@ -17,7 +15,7 @@ ITS MESSY DON'T BULLY ME!!!
 * icon-theme - Vimix-Beryl
 
 ## Install (Untested Currently)
-Steps for install
+steps for install
 ```bash
 $ git clone https://github.com/frapdotbmp/wood-dots
 $ cd wood-dots
