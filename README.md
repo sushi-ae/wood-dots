@@ -4,6 +4,7 @@
 
 ITS MESSY DON'T BULLY ME!!!
 
+## Details
 * OS - Arch, btw
 * WM - awesomewm (stable build)
 * FETCH - palmfetch (will make a repo soon)
