@@ -7,12 +7,21 @@ ITS MESSY DON'T BULLY ME!!!
 ## Details
 * distro - Arch, btw
 * window-manager - awesomewm (stable build)
+* keyboard-daemon - sxhkd
 * fetch-tool - palmfetch (will make a repo soon)
 * visualizer - cava
 * compositor - picom (non-forked)
 * gtk-theme - Dark-Decay
 * main-theme - Dark-Decay
 * icon-theme - Vimix-Beryl
+
+## Dependencies
+```bash
+# pacman -S sxhkd
+# pacman -S alacritty
+# pacman -S picom
+# pacman -S awesome
+```
 
 ## Install (Untested Currently)
 steps for install
