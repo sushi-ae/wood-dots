@@ -27,7 +27,7 @@ $ = run without sudo
 # pacman -S sxhkd pcmanfm chromium scrot alacritty picom awesome
 ```
 
-## Install (Untested Currently)
+## Install (dont try this at home :p)
 steps for install
 ```bash
 $ git clone https://github.com/frapdotbmp/wood-dots
