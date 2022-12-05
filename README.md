@@ -35,9 +35,9 @@ $ cd wood-dots
 ```
 copy files to the correct directories
 ```bash
-$ cp wood-dots/awesome ~/.config/
-$ cp wood-dots/alacritty ~/.config/
-$ cp wood-dots/picom ~/.config/
+$ cp -r wood-dots/awesome ~/.config/
+$ cp -r wood-dots/alacritty ~/.config/
+$ cp -r wood-dots/picom ~/.config/
 ```
 for the gtk-theme and whatnot, i'm going to add instructions on that in the future.
 ```bash
