@@ -4,7 +4,7 @@
 
 ITS MESSY DON'T BULLY ME!!!
 
-### Details
+## Details
 * distro - Arch, btw
 * window-manager - awesomewm (stable build)
 * fetch-tool - palmfetch (will make a repo soon)
@@ -13,3 +13,17 @@ ITS MESSY DON'T BULLY ME!!!
 * gtk-theme - Dark-Decay
 * main-theme - Dark-Decay
 * icon-theme - Vimix-Beryl
+
+## Install (Untested Currently)
+Steps for install
+```bash
+$ git clone https://github.com/frapdotbmp/wood-dots
+$ cd wood-dots
+```
+copy files to the correct directories
+```bash
+$ cp wood-dots/awesome ~/.config/
+$ cp wood-dots/alacritty ~/.config/
+$ cp wood-dots/picom ~/.config/
+```
+for the gtk-theme and whatnot, i'm going to add instructions on that in the future.
