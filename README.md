@@ -15,7 +15,7 @@ ITS MESSY DON'T BULLY ME!!!
 * main-theme - Dark-Decay
 * icon-theme - Vimix-Beryl
 
-## Legend
+### Legend
 just so nobody gets confused ;-;
 ```
 # = run with sudo
