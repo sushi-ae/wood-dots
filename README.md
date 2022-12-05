@@ -24,13 +24,7 @@ $ = run without sudo
 
 ## Dependencies
 ```
-# pacman -S sxhkd
-# pacman -S pcmanfm
-# pacman -S chromium
-# pacman -S scrot
-# pacman -S alacritty
-# pacman -S picom
-# pacman -S awesome
+# pacman -S sxhkd pcmanfm chromium scrot alacritty picom awesome
 ```
 
 ## Install (Untested Currently)
