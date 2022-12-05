@@ -4,12 +4,12 @@
 
 ITS MESSY DON'T BULLY ME!!!
 
-## Details
-* OS - Arch, btw
-* WM - awesomewm (stable build)
-* FETCH - palmfetch (will make a repo soon)
-* VISUALIZER - cava
-* COMPOSITOR - picom-jonaburg
-* GTK-THEME - Dark-Decay
-* MAIN-THEME - Dark-Decay
-* ICON-THEME - Vimix-Beryl
+### Details
+* distro - Arch, btw
+* window-manager - awesomewm (stable build)
+* fetch-tool - palmfetch (will make a repo soon)
+* visualizer - cava
+* compositor - picom-jonaburg
+* gtk-theme - Dark-Decay
+* main-theme - Dark-Decay
+* icon-theme - Vimix-Beryl
