@@ -9,7 +9,7 @@ ITS MESSY DON'T BULLY ME!!!
 * window-manager - awesomewm (stable build)
 * fetch-tool - palmfetch (will make a repo soon)
 * visualizer - cava
-* compositor - picom-jonaburg
+* compositor - picom (non-forked)
 * gtk-theme - Dark-Decay
 * main-theme - Dark-Decay
 * icon-theme - Vimix-Beryl
